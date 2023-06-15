@@ -1,11 +1,11 @@
 #bdr {
-	border-right: 2px solid grey;
-	padding:5px;
+	border-right: 1px solid grey;
+	padding:12px;
 
 }
 #bdrb {
 	border-bottom: 1px solid grey;
-	padding:15px;
+	padding:20px;
 
 }
 
@@ -25,4 +25,21 @@ font-family: 'Roboto', sans-serif;
 
 #ff3 {
 font-family: 'Raleway', sans-serif;
+}
+
+#ff4 {
+font-family: 'Courier Prime', monospace;
+}
+
+#ff5 {
+	font-family: 'Comforter Brush', cursive;
+	}
+
+#ff6 {
+        font-family: 'Comforter', cursive;
+    }
+
+#myPDF {
+	width: 95%;
+	height: 975px;
 }
